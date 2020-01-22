@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1545294677 source:c:\program files (x86)\codeblocks\cpp codeblocks\employee management dfs\main.cpp
+	<sstream>
+	<fstream>
+	<iomanip>
+	<algorithm>
+	<iostream>
+	<cstdlib>
+	<cmath>
+	"addition.h"
+	<math.h>
+	<string>
+	<limits.h>
+	<windows.h>
+
+1545294220 c:\program files (x86)\codeblocks\cpp codeblocks\employee management dfs\addition.h
+	<vector>
+

@@ -1,0 +1,5 @@
+102,yash chaudhary,23,ych@gmail.com,200000,13,100
+104,johnyy,20,johnyy2yahoomail.com,1e+006,67,101
+104,,20,,1e+006,67,101
+105,,24,,100000,45,103
+106,adhiksha,19,asthorat@mitaoe.ac.in,200000,67,107
